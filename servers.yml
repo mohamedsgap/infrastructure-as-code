@@ -1,6 +1,5 @@
 Description: >
-    Carlos Rivas / Udacity 2019
-
+  This template to deploy a server!
 Parameters:
 
     EnvironmentName:
